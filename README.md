@@ -1,2 +1,2 @@
 # EMG_1_repository
-Educational repository for Data science course
+Educational repository for IBM Data science course
